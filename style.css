@@ -122,3 +122,20 @@ article p:first-child {
   background-color: black;
   font-style: italic;
 }
+
+/* #copyright {
+  color: rgb(255, 0, 0);
+}
+
+.copyright {
+  color: rgb(4, 0, 255);
+}
+
+.text {
+  color: yellow;
+} */
+
+/* Do not use !important only as a last resort */
+/* footer p {
+  color: green !important;
+} */
