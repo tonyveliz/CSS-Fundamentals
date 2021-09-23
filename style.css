@@ -1,6 +1,11 @@
-h1, h2, h3, h4, p, li {
-  font-family: sans-serif;
+/* * {
+  border-top: 10px solid #0099ff;
+} */
+
+body {
   color: #444;
+  font-family: sans-serif;
+border-top: 10px solid #0099ff;
 }
 
 h1, h2, h3 {
@@ -139,3 +144,11 @@ article p:first-child {
 /* footer p {
   color: green !important;
 } */
+
+/* nav a:any-link, nav p {
+  font-size: 18px;
+} */
+
+nav {
+  font-size: 18px;
+}
